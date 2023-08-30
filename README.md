@@ -1,4 +1,4 @@
 # apnacollege-raj
 This is my first Git Repository
 <br>
-Author - Rajkumar Tripathi
+Author - Rajkumar Tripathi(raj)
